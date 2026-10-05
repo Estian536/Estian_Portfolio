@@ -1,5 +1,7 @@
 # Bellator Fitness
 
+**Live site:** [bellator-fitness.co.za](https://bellator-fitness.co.za/)
+
 A gym's website: a **public single-page site** with about, class schedule,
 trainers, gallery, pricing, and contact sections, plus a **hidden,
 password-protected admin dashboard** where the owner can update every one
