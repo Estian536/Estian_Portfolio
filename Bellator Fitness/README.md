@@ -41,7 +41,7 @@ create/update/delete endpoints.
 | Screen | Where | Purpose |
 |---|---|---|
 | **Public site** | `/` | One scrolling page: About blurb, weekly class schedule, trainer bios with photos, a photo gallery with a "show more" toggle, pricing plans with feature lists, and a contact/location block — plus floating social links and a sticky navbar. |
-| **Admin dashboard** | hidden route (`/bf-admin-2436`) | Password-protected, sidebar-driven dashboard with one screen per content type: Overview (counts), About Content, Classes, Trainers, Pricing, Gallery, and Contact & Location. Each screen lets the owner add, edit, delete, and reorder items in that section. |
+| **Admin dashboard** | hidden route | Password-protected, sidebar-driven dashboard with one screen per content type: Overview (counts), About Content, Classes, Trainers, Pricing, Gallery, and Contact & Location. Each screen lets the owner add, edit, delete, and reorder items in that section. |
 
 Content is **not hard-coded** — every section pulls its data from the API,
 so the owner can restructure the whole site from the dashboard without a
